@@ -10,7 +10,5 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Eduard Valevich: EduardValevich
 - Ivan Lysenko: IvanLsenko
 
-- Elon Musk: elonmusk777
-- Jack London: martineden
 
 -->
